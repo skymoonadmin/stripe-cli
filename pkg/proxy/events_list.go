@@ -219,7 +219,6 @@ var validEvents = map[string]bool{
 	"treasury.outbound_transfer.returned":                      true,
 	"treasury.received_credit.created":                         true,
 	"treasury.received_credit.failed":                          true,
-	"treasury.received_credit.reversed":                        true,
 	"treasury.received_credit.succeeded":                       true,
 	"treasury.received_debit.created":                          true,
 }
